@@ -45,9 +45,6 @@ Para executar o script, você precisará de:
 ## ⚠️ Observação
 O script usa IDs de recursos fictícios (`preview-vpc-1234`, `preview-igw-1234`, etc.). Antes de executar, substitua-os pelos valores corretos para sua conta AWS.
 
-## 📜 Licença
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
 ---
 **Autor:** Luis Spindola
 
